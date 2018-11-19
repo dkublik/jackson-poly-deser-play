@@ -19,6 +19,7 @@ Content is specified by contentType property in the response and determines clas
 * Run DeserApp, hit http://localhost:8080/content to get all content types (episode, series) 
 * Run DeserPlaySpec to hit content endpoint by restTemplate end deserialize to different classes depending on contentType property 
 
-
+## links
+https://github.com/FasterXML/jackson-docs/wiki/JacksonPolymorphicDeserialization
 
 
